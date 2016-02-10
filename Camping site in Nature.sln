@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camping site in Nature.CSharp.Plugins", "Camping site in Nature.CSharp.Plugins.csproj", "{C7C639B3-D481-AF76-A5EA-F8A88BE6D401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camping site in Nature.CSharp", "Camping site in Nature.CSharp.csproj", "{A96D1826-DDD0-8B89-75DA-A6ADA3A289F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camping site in Nature.CSharp.Editor", "Camping site in Nature.CSharp.Editor.csproj", "{B90251D3-6821-9071-CEDE-CCBEAB442A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C639B3-D481-AF76-A5EA-F8A88BE6D401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C639B3-D481-AF76-A5EA-F8A88BE6D401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C639B3-D481-AF76-A5EA-F8A88BE6D401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C639B3-D481-AF76-A5EA-F8A88BE6D401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96D1826-DDD0-8B89-75DA-A6ADA3A289F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96D1826-DDD0-8B89-75DA-A6ADA3A289F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96D1826-DDD0-8B89-75DA-A6ADA3A289F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96D1826-DDD0-8B89-75DA-A6ADA3A289F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90251D3-6821-9071-CEDE-CCBEAB442A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90251D3-6821-9071-CEDE-CCBEAB442A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90251D3-6821-9071-CEDE-CCBEAB442A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90251D3-6821-9071-CEDE-CCBEAB442A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
